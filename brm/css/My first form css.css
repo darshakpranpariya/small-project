@@ -1,0 +1,56 @@
+h1
+{
+  color:red;
+  text-align:center;
+  font-size:50px;
+  
+}
+body
+{
+  background-color:khaki;
+}
+#d1
+{
+   width:400px;
+   height:400px;
+   background-color:lightblue;
+   position:relative;
+   left:430px;
+   backgrouund-image
+}
+#t1
+{
+   position:absolute;
+   top:65px;
+   left:65px;
+}
+#t2
+{
+   position:absolute;
+   top:110px;
+   left:65px;
+}
+#t3
+{
+   position:absolute;
+   top:155px;
+   left:65px;
+}
+#t4
+{
+   position:absolute;
+   top:205px;
+   left:65px;
+}
+#t5
+{
+   position:absolute;
+   top:255px;
+   left:65px;
+}
+#t6
+{
+   position:absolute;
+   top:310px;
+   left:140px;
+}
